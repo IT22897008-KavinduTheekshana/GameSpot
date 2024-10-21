@@ -17,7 +17,14 @@ GameSpot is a gaming website built using **Java, JSP, and Servlets** that allows
 - Bootstrap for responsive design
 - MySQL for database management
 
-## Getting Started
+## Website Images
+![game-details](https://github.com/user-attachments/assets/ea60de7a-5c99-40d4-b574-d567a83e8717)
+![login](https://github.com/user-attachments/assets/89627b8e-db69-40a9-ba0b-b3c09fceefa2)
+![profile](https://github.com/user-attachments/assets/7d71c255-e99c-4893-a009-eefbeb8c576c)
+![user-management](https://github.com/user-attachments/assets/d9477550-6c18-4d86-865a-70fa5c465b11)
+![game-management](https://github.com/user-attachments/assets/8f09d1c3-20bf-4621-9525-81afcae4f85a)
+![Uploading homepage.png…]()
+
 
 
 
